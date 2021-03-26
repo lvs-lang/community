@@ -5,6 +5,8 @@ import Head from 'next/head';
 import Sticky from 'react-sticky-el';
 import absoluteUrl from 'next-absolute-url';
 
+
+
 import Theme, { theme } from '@pagerland/themes/src/MobileApp';
 import {
   Navbar,
